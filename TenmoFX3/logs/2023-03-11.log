@@ -1,0 +1,13 @@
+2023-03-11T10:18:44.7733076 500 : 
+2023-03-11T10:34:18.9430074 500 : 
+2023-03-11T11:37:39.0675006 401 : [no body]
+2023-03-11T11:44:37.6974141 401 : [no body]
+2023-03-11T11:45:17.2750189 401 : [no body]
+2023-03-11T11:45:30.8215325 401 : [no body]
+2023-03-11T11:46:18.0127015 401 : [no body]
+2023-03-11T11:46:26.8171056 401 : [no body]
+2023-03-11T16:05:17.4586406 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect
+2023-03-11T16:05:21.1766239 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect
+2023-03-11T16:05:38.7215992 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect
+2023-03-11T16:05:41.2425463 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect
+2023-03-11T16:05:43.8799174 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect

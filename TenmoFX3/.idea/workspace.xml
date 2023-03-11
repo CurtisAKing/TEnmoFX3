@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8f7eb48-ff56-4957-ac32-52edbfd2ad54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/2023-03-11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/LoginScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/MainLoggedInScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/PendingRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/RequestBucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/SendBucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/TransferHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/TransferSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/services/AccountServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/services/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/king/curtis/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/king/curtis/gui/AlertBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/AlertBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/king/curtis/gui/RegisterScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/RegisterScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/king/curtis/gui/WelcomeScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/king/curtis/gui/WelcomeScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/king/curtis/models/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/king/curtis/models/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/king/curtis/services/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/king/curtis/services/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MpUr7FYWKNlqMxLIZIBc3tLnPn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/datae/IdeaProjects/TEnmoFx/TenmoFX3/pom.xml",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TEnmoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="king.curtis.TEnmoApplication" />
+      <module name="TenmoFX3" />
+      <option name="PROGRAM_PARAMETERS" value="java - cp $CLASSPATH --add-modules java.sql,java.xml.bind --module-path mods:out -m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="king.curtis.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TEnmoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8f7eb48-ff56-4957-ac32-52edbfd2ad54" name="Changes" comment="" />
+      <created>1678464213886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678464213886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
